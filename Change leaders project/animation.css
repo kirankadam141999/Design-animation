@@ -1,0 +1,87 @@
+/* .backimage {
+  animation: pulse;
+  animation-duration: 2s;
+} */
+
+.backimage-animation {
+  animation: swing, fadeIn;
+  animation-duration: 3s;
+}
+.backimage1-animation {
+  animation: zoomInDown;
+  animation-duration: 3s;
+}
+.hometext-animation {
+  animation: fadeInUp;
+  animation-duration: 5s;
+}
+/* -------------------------------------dots------------------------ */
+.dot1-animation {
+  animation: backInLeft;
+  animation-duration: 7s;
+}
+.dot2-animation {
+  animation: backInLeft;
+  animation-duration: 7s;
+}
+.dot3-animation {
+  animation: backInRight;
+  animation-duration: 7s;
+}
+
+/* --------------------------------------------Scand half---------------------------------- */
+.secandbackimge-animation {
+  animation: zoomIn;
+  animation-duration: 2s;
+}
+.dot66-animation {
+  animation: fadeInRight;
+  animation-duration: 5s;
+}
+.dot5-animation {
+  animation: fadeInLeft;
+  animation-duration: 5s;
+}
+.dot4-animation {
+  animation: fadeInLeft;
+  animation-duration: 7s;
+}
+.mycode-animation {
+  animation: fadeInUp;
+  animation-duration: 4s;
+}
+
+/* ----------------------------------------fourth section---------------------------------------- */
+.thirdyouotub-animation {
+  animation: fadeInRight;
+  animation-duration: 2s;
+}
+.thirddot66-animation {
+  animation: fadeInBottomLeft;
+  animation-duration: 5s;
+}
+.thirddot5-animation {
+  animation: fadeInBottomRight;
+  animation-duration: 5s;
+}
+.thirddot4-animation {
+  animation: zoomInLeft;
+  animation-duration: 5s;
+}
+.thirdmycode-animation {
+  animation: fadeInUp;
+  animation-duration: 4s;
+}
+
+/* -------------------------------------------fifth section--------------------------------------- */
+
+.roundedmycode-animation {
+  animation: bounce;
+  animation-duration: 4s;
+}
+
+/* ----------------------------------------------top menuitem------------------------------------------ */
+.menubuton {
+  animation: backInDown;
+  animation-duration: 1s;
+}
